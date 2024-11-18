@@ -1,0 +1,33 @@
+# Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# Git
+.git
+.gitignore
+
+# Docker
+docker-compose.override.yml
+docker-compose.override.yml
+Dockerfile
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+.terraform.lock.hcl
+
+# VSCode
+.vscode/
